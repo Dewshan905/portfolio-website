@@ -1,0 +1,21 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="g1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(180 150) rotate(54) scale(260)">
+      <stop stop-color="#60A5FA" stop-opacity="0.95" />
+      <stop offset="1" stop-color="#020617" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="g2" x1="96" y1="96" x2="416" y2="416" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A" />
+      <stop offset="1" stop-color="#020617" />
+    </linearGradient>
+    <linearGradient id="g3" x1="142" y1="146" x2="368" y2="366" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E0F2FE" />
+      <stop offset="1" stop-color="#60A5FA" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="120" fill="url(#g2)" />
+  <rect x="40" y="40" width="432" height="432" rx="96" fill="url(#g1)" />
+  <rect x="76" y="76" width="360" height="360" rx="84" fill="rgba(255,255,255,0.03)" stroke="rgba(148,163,184,0.22)" />
+  <path d="M156 346L210 166H252L306 346H272L260 307H202L190 346H156ZM211 279H251L231 212L211 279Z" fill="url(#g3)" />
+  <path d="M320 168H357V346H320V168Z" fill="url(#g3)" />
+</svg>
